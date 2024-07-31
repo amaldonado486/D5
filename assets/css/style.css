@@ -1,0 +1,86 @@
+  
+  .roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .roboto-bold {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .roboto-black {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  
+  
+  
+  
+  
+  
+
+  .white{
+    color: white!important;
+  }
+
+  form{
+    /* margin: 10px; */
+    padding: 10px;
+    background: #28a745;
+    color: white;
+    border: 1px solid #28a745;
+  }
+
+  footer{
+    padding: 20px;
+  }
+  main{
+    padding-top: 30pt;
+    padding-bottom: 30pt;
+  }
+  article{
+    margin-top: 20pt;
+    margin-bottom: 20pt;
+    /* height: 380pt; */
+  }
+  .card-title{
+    font-size: 20pt;
+    color: #212529;
+  }
+  .card-text{
+    font-size: 16pt;
+    color: #707070;
+    height: 199;
+    width: 278
+  }
+  .card-body{
+    padding: 16pt;
+  }
+  .direccion{
+    font-size: 13pt;
+  }
+  img{
+    width: 278;
+    height: 180;
+  }
+  hr{
+    color: #707070A0; 
+    font-size: 1pt;
+  }
